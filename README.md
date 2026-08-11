@@ -64,6 +64,14 @@ for coordinating your *surrounding* design; **never recolour the mark with an ac
 
 ---
 
+## People
+
+| Person | Use | JPEG |
+|---|---|---|
+| Josef Gattermayer | Speaker headshot / avatar | [josef-gattermayer-speaker.jpg](people/josef-gattermayer-speaker.jpg) |
+
+---
+
 ## Usage
 
 - **Clear space** — keep space equal to the cursor block's width clear on every side.
