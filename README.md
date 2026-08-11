@@ -66,9 +66,14 @@ for coordinating your *surrounding* design; **never recolour the mark with an ac
 
 ## People
 
-| Person | Use | JPEG |
-|---|---|---|
-| Josef Gattermayer | Speaker headshot / avatar | [josef-gattermayer-speaker.jpg](people/josef-gattermayer-speaker.jpg) |
+### Josef Gattermayer
+
+<img src="people/josef-gattermayer.jpg" alt="Official portrait of Josef Gattermayer" width="480">
+
+Official founder portrait for press, profiles, event programmes, and company
+materials.
+
+**Download:** [JPEG, 1254 × 1254](people/josef-gattermayer.jpg)
 
 ---
 
