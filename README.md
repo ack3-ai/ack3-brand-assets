@@ -75,6 +75,15 @@ materials.
 
 **Download:** [JPEG, 1254 × 1254](people/josef-gattermayer.jpg)
 
+### Jan Kalivoda
+
+<img src="people/jan-kalivoda.jpg" alt="Official portrait of Jan Kalivoda" width="480">
+
+Official co-founder portrait for press, profiles, event programmes, and company
+materials.
+
+**Download:** [JPEG, 1254 × 1254](people/jan-kalivoda.jpg)
+
 ---
 
 ## Usage
